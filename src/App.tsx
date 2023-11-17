@@ -31,10 +31,3 @@ const App: React.FC = () => {
 }
 
 export default App;
-
-
-// When back: 
-// fix styling 
-// updlaod to github 
-// continue learning typescript
-// review content from class for understanding
